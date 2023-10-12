@@ -1,2 +1,2 @@
 # aws-instance
-ex for AWS
+AWS
